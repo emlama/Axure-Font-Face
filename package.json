@@ -1,0 +1,13 @@
+{
+  "name": "axure-font-grunt",
+  "version": "0.1.0",
+  "axure_prototype": "../../Documents/Axure/Prototypes/PublicKnowledge/",
+  "dependencies": {
+  	"underscore": "1.4.x"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-copy": "~0.4.x"
+  }
+}
